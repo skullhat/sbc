@@ -5,7 +5,7 @@ Welcome to the VS Code Java world. Here is a guideline to help you get started t
 ---
 ![](src/img/01.png)
 ![](src/img/02.png)
-![](src/img/03.png])
+![](src/img/03.png)
 
 ## Folder Structure
 The workspace contains two folders by default, where:
